@@ -1,6 +1,7 @@
 # BlueJ Breakout
 > My final project for AP Computer Science A in 2022: a replica of Atari Breakout in Java
-Instructions:
+
+### Instructions:
 ```shell
 $ git clone https://github.com/cole-wilson/breakout
 $ cd breakout
